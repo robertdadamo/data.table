@@ -1,3 +1,3 @@
 # data.table
 
-This repo contains the Jupyter R notebook and images for the 2019-03-12 Fort Collins Data Science Meetup presentation on the R data.table package.
+This repo contains the Jupyter R notebook and related files for my Fort Collins Data Science Meetup presentation about the R data.table package.
